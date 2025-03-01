@@ -8,7 +8,7 @@ O **Selection Sort** é um algoritmo de ordenação que funciona selecionando re
 
 ## Tecnologias Utilizadas
 
-- Linguagem: **C / C++ / Java / Python** (especifique a linguagem usada)
+- Linguagem: **Java**
 - Ambiente de desenvolvimento: (Ex: Dev-C++, VS Code, GCC, etc.)
 
 ## Como Executar
@@ -22,24 +22,11 @@ O **Selection Sort** é um algoritmo de ordenação que funciona selecionando re
    cd Select-Short---ED2
    ```
 3. Compile e execute o código conforme a linguagem utilizada:
-   - **C (GCC):**
-     ```sh
-     gcc selection_sort.c -o selection_sort
-     ./selection_sort
-     ```
-   - **C++:**
-     ```sh
-     g++ selection_sort.cpp -o selection_sort
-     ./selection_sort
-     ```
+   
    - **Java:**
      ```sh
      javac SelectionSort.java
      java SelectionSort
-     ```
-   - **Python:**
-     ```sh
-     python selection_sort.py
      ```
 
 ## Exemplo de Entrada e Saída
@@ -65,10 +52,6 @@ Sinta-se à vontade para contribuir! Para isso:
 3. Faça commit das suas alterações (`git commit -m 'Adiciona nova feature'`)
 4. Envie para o repositório remoto (`git push origin minha-feature`)
 5. Abra um **Pull Request**
-
-## Licença
-
-Este projeto está sob a licença MIT. Para mais detalhes, consulte o arquivo [LICENSE](LICENSE).
 
 ---
 
