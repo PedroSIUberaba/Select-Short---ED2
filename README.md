@@ -9,7 +9,7 @@ O **Selection Sort** é um algoritmo de ordenação que funciona selecionando re
 ## Tecnologias Utilizadas
 
 - Linguagem: **Java**
-- Ambiente de desenvolvimento: (Ex: Dev-C++, VS Code, GCC, etc.)
+- Ambiente de desenvolvimento: IntelliJ
 
 ## Como Executar
 
