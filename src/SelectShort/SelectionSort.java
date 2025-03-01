@@ -1,9 +1,9 @@
-package SelectShort;
+package SelectionSort;
 
 import java.util.Arrays;
 import java.util.Random;
 
-public class SelectShort {
+public class SelectionSort {
 
     public static void main(String[] args) {
         //int[] vetor = {3, 5, 6, 8, 9};
