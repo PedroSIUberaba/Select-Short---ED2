@@ -1,4 +1,4 @@
-# Select-Short - ED2
+# Selection Sort - ED2
 
 Este repositório contém a implementação do algoritmo de ordenação **Selection Sort** para a disciplina de **Estruturas de Dados II**.
 
